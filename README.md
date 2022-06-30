@@ -1,4 +1,4 @@
-<h1>Insider Trading Dashboard</h1>
+<h1>Insider Trading Dashboard (Python, Tableau)</h1>
 <h2>What is Insider Trading?</h2>
 Insider trading data is obtained via information disclosed in the U.S. SEC's Form 4. Directors, officers, or owners of more than 10% of any class of a company's securities are defined as "insiders". Thus, are required to fill out the form two-busniess days following a transaction involving their respective company. This data is made public through various insider trading websites and provides investors with useful information pertaining to the performance or prospects of the company.<br>
 <h2>Project Description</h2>
