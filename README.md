@@ -39,4 +39,4 @@ Tableau was used to join the stock sector csv file with the scraped data csv fil
 <img src="https://github.com/elisshui/InsiderTradingDashboard/blob/main/tradingDashboard.JPG" alt="Trading Dashboard" width=90%>
 
 ---
-Project by [Eliss Hui](elisshui.epizy.com "Eliss Hui") (Jun 2022)
+Project by [Eliss Hui](http://elisshui.epizy.com/ "Eliss Hui") (Jun 2022)
