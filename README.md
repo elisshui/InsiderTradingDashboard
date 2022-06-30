@@ -35,4 +35,8 @@ The functions <i>getPrice()</i> and <i>getMA()</i> were used to assign a ticker 
 <h2>Scraping Stock Sectors and Automating Python Script</h2>
 The different stock sectors in the U.S. Stock Market as per <a href = "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-industry/">tradingview.com</a> were scraped and placed into another csv file using a Jupyter Notebook. A batch file as well as the Windows Task Scheduler were used to automate the data scraping process.
 <h2>Creating the Dashboard</h2>
-Tableau was used to join the stock sector csv file with the scraped data csv file. KPIs, a stock heat map, and a sector tree map were created. These were all put together to create a dashboard.
+Tableau was used to join the stock sector csv file with the scraped data csv file. KPIs, a stock heat map, and a sector tree map were created. These were all put together to create a dashboard.<br>
+<img src="https://github.com/elisshui/InsiderTradingDashboard/blob/main/tradingDashboard.JPG" alt="Trading Dashboard" width=90%>
+
+---
+Project by [Eliss Hui](elisshui.epizy.com "Eliss Hui") (Jun 2022)
