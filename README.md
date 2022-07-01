@@ -31,11 +31,11 @@ def getInfo(ticker, nPeriods): #get current stock price -> will calculate MA
         return ('N/A', 'N/A') #if error occurs, return N/A for price and MA
 ```
 
-The functions <i>getPrice()</i> and <i>getMA()</i> were used to assign a ticker its respective values in the dictionary, <i>infoDic</i>.
+The functions <i>getPrice()</i> and <i>getMA()</i> were used to assign a ticker its respective values in the dictionary, <i>infoDict</i>.
 <h2>Scraping Stock Sectors and Automating Python Script</h2>
 The different stock sectors in the U.S. Stock Market as per <a href = "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-industry/">tradingview.com</a> were scraped and placed into another csv file using a Jupyter Notebook. A batch file as well as the Windows Task Scheduler were used to automate the data scraping process.
 <h2>Creating the Dashboard</h2>
-Tableau was used to join the stock sector csv file with the scraped data csv file. KPIs, a stock heat map, and a sector tree map were created. These were all put together to create a dashboard.<br><br>
+Tableau was used to join the stock sector csv file with the scraped data csv file. KPIs, a stock heat map, and a sector tree map were created. These were all put together to create a dashboard seen below.<br><br>
 <img src="https://github.com/elisshui/InsiderTradingDashboard/blob/main/tradingDashboard.JPG" alt="Trading Dashboard" width=90%>
 
 ---
